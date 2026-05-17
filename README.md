@@ -1,4 +1,4 @@
-# Hi, I'm Eunice Tawor Ekure 👋
+# Hi, I'm Eunice Charles Okon 👋
 
 Technical Project Manager currently leading the coordination and operational execution of a ride-hailing mobile application project approaching pre-launch.
 
